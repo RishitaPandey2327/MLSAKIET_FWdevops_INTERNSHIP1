@@ -1,0 +1,26 @@
+#social-media {
+  color:red;
+} 
+.experience {
+  font-style: italic;
+}
+a:visited {/* named value */
+  div {
+      color: rgb(42, 122, 165);
+  }}
+  
+  
+  h1 {
+      color:purple;
+  }
+  
+  
+  h2 {
+      color:chartreuse;
+}
+  
+
+a:hover {
+  background-color: yellow;
+}
+
